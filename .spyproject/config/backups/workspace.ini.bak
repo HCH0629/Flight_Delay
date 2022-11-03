@@ -1,0 +1,12 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+project_type = 'empty-project-type'
+recent_files = ['..\\..\\.spyder-py3\\temp.py', 'requests_on_tailnumber.py', 'selenium_on_airport.py', 'selenium_on_weather.py', 'load_model.py', 'concat_table.py', 'eda_weatherwithdelay.py', 'airline_data_cleaning.py', 'tail_number_cleaning.py', 'unzipfiles.py', 'read_write_txt.py', 'weather_cleaning.py', 'model_output.py', 'eda_data2000.py', 'untitled0.py', 'untitled2.py']
+
+[main]
+version = 0.2.0
+recent_files = []
+
